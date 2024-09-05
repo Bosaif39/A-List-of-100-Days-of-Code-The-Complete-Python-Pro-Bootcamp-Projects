@@ -2,7 +2,7 @@ A list linked to all projects I made doing this course
 
 **Beginner**
 
-Day 1 Project:
+Day 1 Project: [Simple Band Name Generator]([url](https://github.com/Bosaif39/Band-Name-Generator-Day-1-Project)).
 
 Day 2 Project:
 
