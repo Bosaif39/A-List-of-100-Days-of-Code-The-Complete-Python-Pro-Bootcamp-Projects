@@ -28,7 +28,7 @@ Day 12 Project: [Guess the number game](https://github.com/Bosaif39/Guess-The-Nu
 
 Day 13 Project: No project for this day.
 
-Day 14 Project:
+Day 14 Project: [Higher or Lower game](https://github.com/Bosaif39/Higher-or-Lower-Game-Day-14-Project).
 
 **Intermediate** 
 
