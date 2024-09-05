@@ -1,6 +1,7 @@
 A list linked to all projects I made doing this course
 
-**Beginner **
+**Beginner**
+
 Day 1 Project:
 
 Day 2 Project:
@@ -30,6 +31,7 @@ Day 13 Project:
 Day 14 Project:
 
 **Intermediate** 
+
 Day 15 Project:
 
 Day 16 Project:
@@ -119,6 +121,7 @@ Day 57 Project:
 Day 58 Project:
 
 **Advanced** 
+
 Day 59 Project:
 
 Day 60 Project:
