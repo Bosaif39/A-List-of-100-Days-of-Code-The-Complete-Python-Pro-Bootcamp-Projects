@@ -1,4 +1,4 @@
-A list linked to all projects I made doing this course
+A list linked to all projects I made doing this 100 Days of Code: The Complete Python Pro Bootcamp course.
 
 **Beginner**
 
