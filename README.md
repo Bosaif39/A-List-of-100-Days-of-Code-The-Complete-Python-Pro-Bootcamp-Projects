@@ -32,9 +32,9 @@ Day 14 Project: [Higher or Lower game](https://github.com/Bosaif39/Higher-or-Low
 
 **Intermediate** 
 
-Day 15 Project:
+Day 15 Project: Skip.
 
-Day 16 Project:
+Day 16 Project: Skip.
 
 Day 17 Project:
 
