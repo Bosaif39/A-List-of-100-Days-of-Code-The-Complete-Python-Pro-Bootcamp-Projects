@@ -26,7 +26,7 @@ Day 11 Project: [Blackjack game](https://github.com/Bosaif39/Blackjack-Day-11-Pr
 
 Day 12 Project: [Guess the number game](https://github.com/Bosaif39/Guess-The-Number-Game-Day-12-Project).
 
-Day 13 Project:
+Day 13 Project: No project for this day.
 
 Day 14 Project:
 
