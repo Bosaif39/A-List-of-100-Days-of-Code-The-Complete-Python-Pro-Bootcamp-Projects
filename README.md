@@ -4,27 +4,27 @@ A list linked to all projects I made doing this course
 
 Day 1 Project: [Simple Band Name Generator](https://github.com/Bosaif39/Band-Name-Generator-Day-1-Project). 
 
-Day 2 Project:
+Day 2 Project: [Simple Tip Calculator](https://github.com/Bosaif39/Tip-Calculator-Day-2-Project).
 
-Day 3 Project:
+Day 3 Project: [Simple Choose Your Own Adventure game](https://github.com/Bosaif39/Treasure-Island-Day-3-Project).
 
-Day 4 Project:
+Day 4 Project: [Rock Paper Scissors game](https://github.com/Bosaif39/Rock-Paper-Scissors-Day-4-Project).
 
-Day 5 Project:
+Day 5 Project: [Password Generator](https://github.com/Bosaif39/Password-Generator-Day-5-Project).
 
-Day 6 Project:
+Day 6 Project: Skip
 
-Day 7 Project:
+Day 7 Project: [Simple hangman game](https://github.com/Bosaif39/Hangman-Day-7-Project).
 
-Day 8 Project:
+Day 8 Project: [Caesar cipher](https://github.com/Bosaif39/Caesar-Cipher-Day-8-Project).
 
-Day 9 Project:
+Day 9 Project: [Simple blind auction](https://github.com/Bosaif39/Blind-Auction-Day-9-Project).
 
-Day 10 Project:
+Day 10 Project: [Basic calculator](https://github.com/Bosaif39/Basic-Calculator-Day-10-Project).
 
-Day 11 Project:
+Day 11 Project: [Blackjack game](https://github.com/Bosaif39/Blackjack-Day-11-Project).
 
-Day 12 Project:
+Day 12 Project: [Guess the number game](https://github.com/Bosaif39/Guess-The-Number-Game-Day-12-Project).
 
 Day 13 Project:
 
