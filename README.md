@@ -42,9 +42,9 @@ Day 18 Project:
 
 Day 19 Project:
 
-Day 20 Project: [Snake game]((https://github.com/Bosaif39/Snake-Game-Day-20-21-Project)).
+Day 20 Project: [Snake game](https://github.com/Bosaif39/Snake-Game-Day-20-21-Project).
 
-Day 21 Project: [Snake game]([url](https://github.com/Bosaif39/Snake-Game-Day-20-21-Project)).
+Day 21 Project: [Snake game](https://github.com/Bosaif39/Snake-Game-Day-20-21-Project).
 
 Day 22 Project:
 
@@ -120,7 +120,7 @@ Day 57 Project:
 
 Day 58 Project:
 
-**Advanced** 
+## **Advanced** 
 
 Day 59 Project:
 
