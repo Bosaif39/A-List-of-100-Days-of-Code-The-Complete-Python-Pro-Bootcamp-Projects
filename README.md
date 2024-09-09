@@ -38,13 +38,13 @@ Day 16 Project: Skip.
 
 Day 17 Project: [Quiz game](https://github.com/Bosaif39/Quiz-Game-Day-17-Project).
 
-Day 18 Project:
+Day 18 Project: 
 
 Day 19 Project:
 
-Day 20 Project:
+Day 20 Project: [Snake game]([url](https://github.com/Bosaif39/Snake-Game-Day-20-21-Project)).
 
-Day 21 Project:
+Day 21 Project: [Snake game]([url](https://github.com/Bosaif39/Snake-Game-Day-20-21-Project)).
 
 Day 22 Project:
 
