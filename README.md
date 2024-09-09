@@ -38,7 +38,7 @@ Day 16 Project: Skip.
 
 Day 17 Project: [Quiz game](https://github.com/Bosaif39/Quiz-Game-Day-17-Project).
 
-Day 18 Project: 
+Day 18 Project: Hirst Painting.
 
 Day 19 Project:
 
