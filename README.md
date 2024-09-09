@@ -1,6 +1,6 @@
-A list linked to all projects I made doing this 100 Days of Code: The Complete Python Pro Bootcamp course.
+# A list linked to all projects I made doing this 100 Days of Code: The Complete Python Pro Bootcamp course.
 
-**Beginner**
+## **Beginner**
 
 Day 1 Project: [Simple Band Name Generator](https://github.com/Bosaif39/Band-Name-Generator-Day-1-Project). 
 
@@ -30,7 +30,7 @@ Day 13 Project: No project for this day.
 
 Day 14 Project: [Higher or Lower game](https://github.com/Bosaif39/Higher-or-Lower-Game-Day-14-Project).
 
-**Intermediate** 
+## **Intermediate** 
 
 Day 15 Project: Skip.
 
@@ -42,7 +42,7 @@ Day 18 Project:
 
 Day 19 Project:
 
-Day 20 Project: [Snake game]([url](https://github.com/Bosaif39/Snake-Game-Day-20-21-Project)).
+Day 20 Project: [Snake game]((https://github.com/Bosaif39/Snake-Game-Day-20-21-Project)).
 
 Day 21 Project: [Snake game]([url](https://github.com/Bosaif39/Snake-Game-Day-20-21-Project)).
 
