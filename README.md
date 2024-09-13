@@ -40,7 +40,7 @@ Day 17 Project: [Quiz game](https://github.com/Bosaif39/Quiz-Game-Day-17-Project
 
 Day 18 Project: [Hirst Painting](https://github.com/Bosaif39/Hirst-Painting-Day-18-Project).
 
-Day 19 Project:
+Day 19 Project: [Etch A Sketch (project A)](https://github.com/Bosaif39/Etch-A-Sketch-Day-19-Project-A) 
 
 Day 20 Project: [Snake game](https://github.com/Bosaif39/Snake-Game-Day-20-21-Project).
 
