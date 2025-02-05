@@ -52,7 +52,7 @@ Day 23 Project: [Turtle Crossing The Road Game](https://github.com/Bosaif39/Turt
 
 Day 24 Project: [Mail Merge Script](https://github.com/Bosaif39/Mail-Merger-Day-24-Project)
 
-Day 25 Project:
+Day 25 Project: [U.S. States Game](https://github.com/Bosaif39/U.S-States-Game-Day-25)
 
 Day 26 Project:
 
