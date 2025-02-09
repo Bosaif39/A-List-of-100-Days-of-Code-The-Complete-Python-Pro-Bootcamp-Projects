@@ -54,7 +54,7 @@ Day 24 Project: [Mail Merge Script](https://github.com/Bosaif39/Mail-Merger-Day-
 
 Day 25 Project: [U.S. States Game](https://github.com/Bosaif39/U.S-States-Game-Day-25)
 
-Day 26 Project:
+Day 26 Project: [Nato Alphabet](https://github.com/Bosaif39/Nato-Alphabet-Day-26-Project)
 
 Day 27 Project:
 
