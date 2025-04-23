@@ -58,7 +58,7 @@ Day 26 Project: [Nato Alphabet](https://github.com/Bosaif39/Nato-Alphabet-Day-26
 
 Day 27 Project: [GUI Miles to Kilometers Converter](https://github.com/Bosaif39/GUI-Miles-to-Kilometers-Converter-Day-27-Project)
 
-Day 28 Project:
+Day 28 Project: [Pomodoro GUI](https://github.com/Bosaif39/Pomodoro-GUI-Day-28-Project)
 
 Day 29 Project:
 
