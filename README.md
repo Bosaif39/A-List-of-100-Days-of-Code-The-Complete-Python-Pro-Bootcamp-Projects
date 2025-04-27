@@ -60,7 +60,7 @@ Day 27 Project: [GUI Miles to Kilometers Converter](https://github.com/Bosaif39/
 
 Day 28 Project: [Pomodoro GUI](https://github.com/Bosaif39/Pomodoro-GUI-Day-28-Project)
 
-Day 29 Project: [Password Manager GUI](https://github.com/Bosaif39/Password-Manager-GUI-Day-29-Project).
+Day 29 Project: [Password Manager GUI](https://github.com/Bosaif39/Password-Manager-GUI-Day-29-Project)
 
 Day 30 Project:
 
