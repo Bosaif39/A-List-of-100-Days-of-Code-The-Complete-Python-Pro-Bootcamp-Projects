@@ -62,7 +62,7 @@ Day 28 Project: [Pomodoro GUI](https://github.com/Bosaif39/Pomodoro-GUI-Day-28-P
 
 Day 29 Project: [Password Manager GUI](https://github.com/Bosaif39/Password-Manager-GUI-Day-29-Project)
 
-Day 30 Project: Update [Nato Alphabet](https://github.com/Bosaif39/Nato-Alphabet-Day-26-Project) to use Try and Except
+Day 30 Project: Update [Nato Alphabet](https://github.com/Bosaif39/Nato-Alphabet-Day-26-Project) and [Password Manager GUI](https://github.com/Bosaif39/Password-Manager-GUI-Day-29-Project)
 
 Day 31 Project:
 
