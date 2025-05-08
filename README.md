@@ -64,7 +64,7 @@ Day 29 Project: [Password Manager GUI](https://github.com/Bosaif39/Password-Mana
 
 Day 30 Project: Update [Nato Alphabet](https://github.com/Bosaif39/Nato-Alphabet-Day-26-Project) and [Password Manager GUI](https://github.com/Bosaif39/Password-Manager-GUI-Day-29-Project)
 
-Day 31 Project:
+Day 31 Project: [Flashcard App for Learning Arabic Words](https://github.com/Bosaif39/FlashCard-To-Learn-Arabic-Day-31-Project)
 
 Day 32 Project:
 
