@@ -66,7 +66,7 @@ Day 30 Project: Update [Nato Alphabet](https://github.com/Bosaif39/Nato-Alphabet
 
 Day 31 Project: [Flashcard App for Learning Arabic Words](https://github.com/Bosaif39/FlashCard-To-Learn-Arabic-Day-31-Project)
 
-Day 32 Project:
+Day 32 Project: [Birthday Wisher](https://github.com/Bosaif39/Birthday-Wisher-Day-32-Project)
 
 Day 33 Project:
 
