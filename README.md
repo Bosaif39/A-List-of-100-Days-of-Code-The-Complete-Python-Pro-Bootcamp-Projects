@@ -68,7 +68,7 @@ Day 31 Project: [Flashcard App for Learning Arabic Words](https://github.com/Bos
 
 Day 32 Project: [Birthday Wisher](https://github.com/Bosaif39/Birthday-Wisher-Day-32-Project)
 
-Day 33 Project: [International Space Station Overhead](https://github.com/Bosaif39/ISS-Overhead-Day-33-Project/tree/main)
+Day 33 Project: [International Space Station Overhead](https://github.com/Bosaif39/International-Space-Station-Overhead-Day-33-Project)
 
 Day 34 Project:
 
