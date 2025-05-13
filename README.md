@@ -70,7 +70,7 @@ Day 32 Project: [Birthday Wisher](https://github.com/Bosaif39/Birthday-Wisher-Da
 
 Day 33 Project: [International Space Station Overhead](https://github.com/Bosaif39/International-Space-Station-Overhead-Day-33-Project)
 
-Day 34 Project:
+Day 34 Project: [Quiz Game GUI](https://github.com/Bosaif39/Quiz-Game-GUI-Day-34-Project)
 
 Day 35 Project:
 
