@@ -72,7 +72,7 @@ Day 33 Project: [International Space Station Overhead](https://github.com/Bosaif
 
 Day 34 Project: [Quiz Game GUI](https://github.com/Bosaif39/Quiz-Game-GUI-Day-34-Project)
 
-Day 35 Project:
+Day 35 Project: [Rain Alert](https://github.com/Bosaif39/Rain-Alert-Day-35-Project)
 
 Day 36 Project:
 
