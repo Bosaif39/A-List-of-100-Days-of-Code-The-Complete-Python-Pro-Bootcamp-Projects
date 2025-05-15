@@ -74,7 +74,7 @@ Day 34 Project: [Quiz Game GUI](https://github.com/Bosaif39/Quiz-Game-GUI-Day-34
 
 Day 35 Project: [Rain Alert](https://github.com/Bosaif39/Rain-Alert-Day-35-Project)
 
-Day 36 Project:
+Day 36 Project: [Stock Trading Alert](https://github.com/Bosaif39/Stock-Trading-Alert-Day-36-Project)
 
 Day 37 Project:
 
