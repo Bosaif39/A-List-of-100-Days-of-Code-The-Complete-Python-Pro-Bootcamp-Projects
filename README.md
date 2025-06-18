@@ -2,7 +2,7 @@
 
 ## **Beginner**
 
-Day 1 Project: [Simple Band Name Generator](https://github.com/Bosaif39/Band-Name-Generator-Day-1-Project)
+Day 1 Project: [Simple Band Name Generator](https://github.com/Bosaif39/Band-Name-Generator-Day-1-Project) 
 
 Day 2 Project: [Simple Tip Calculator](https://github.com/Bosaif39/Tip-Calculator-Day-2-Project)
 
