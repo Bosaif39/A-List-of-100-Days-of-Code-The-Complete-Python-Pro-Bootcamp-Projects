@@ -12,7 +12,7 @@ Day 4 Project: [Rock Paper Scissors game](https://github.com/Bosaif39/Rock-Paper
 
 Day 5 Project: [Password Generator](https://github.com/Bosaif39/Password-Generator-Day-5-Project)
 
-Day 6 Project: Skip
+Day 6 Project: Skip 
 
 Day 7 Project: [Simple hangman game](https://github.com/Bosaif39/Hangman-Day-7-Project)
 
